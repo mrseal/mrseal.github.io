@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mrseal.github.io/"/>
-  <updated>2018-05-28T09:19:13.000Z</updated>
+  <updated>2018-05-28T10:35:31.000Z</updated>
   <id>http://mrseal.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>alitest</title>
+    <link href="http://mrseal.github.io/2018/05/29/alitest/"/>
+    <id>http://mrseal.github.io/2018/05/29/alitest/</id>
+    <published>2018-05-28T17:35:31.000Z</published>
+    <updated>2018-05-28T10:35:31.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Mac Keys</title>

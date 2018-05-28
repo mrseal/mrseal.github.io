@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mrseal.github.io/2018/05/29/alitest/</loc>
+    
+    <lastmod>2018-05-28T10:35:31.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://mrseal.github.io/2018/05/21/intellij-idea-shortcuts-mac-os/</loc>
     
     <lastmod>2018-05-28T09:51:58.000Z</lastmod>
@@ -9,7 +16,14 @@
   </url>
   
   <url>
-    <loc>http://mrseal.github.io/2017/05/01/hello-world/</loc>
+    <loc>http://mrseal.github.io/2017/05/01/how-to-setup-a-blog-with-hexo-and-github/</loc>
+    
+    <lastmod>2018-05-28T09:19:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://mrseal.github.io/tags/index.html</loc>
     
     <lastmod>2018-05-28T09:19:13.000Z</lastmod>
     
@@ -23,14 +37,7 @@
   </url>
   
   <url>
-    <loc>http://mrseal.github.io/2017/05/01/how-to-setup-a-blog-with-hexo-and-github/</loc>
-    
-    <lastmod>2018-05-28T09:19:13.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://mrseal.github.io/2018/05/21/mac-keys/</loc>
+    <loc>http://mrseal.github.io/2017/05/01/hello-world/</loc>
     
     <lastmod>2018-05-28T09:19:13.000Z</lastmod>
     
@@ -44,14 +51,14 @@
   </url>
   
   <url>
-    <loc>http://mrseal.github.io/2017/05/17/sublime-text-3-keyboard-shortcuts/</loc>
+    <loc>http://mrseal.github.io/2018/05/21/vim-shortcuts-mac-os/</loc>
     
     <lastmod>2018-05-28T09:19:13.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://mrseal.github.io/2018/05/21/vim-shortcuts-mac-os/</loc>
+    <loc>http://mrseal.github.io/2017/05/17/sublime-text-3-keyboard-shortcuts/</loc>
     
     <lastmod>2018-05-28T09:19:13.000Z</lastmod>
     
@@ -65,7 +72,7 @@
   </url>
   
   <url>
-    <loc>http://mrseal.github.io/tags/index.html</loc>
+    <loc>http://mrseal.github.io/2018/05/21/mac-keys/</loc>
     
     <lastmod>2018-05-28T09:19:13.000Z</lastmod>
     
