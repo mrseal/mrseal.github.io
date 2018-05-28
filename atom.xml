@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MrSeal</title>
+  
+  <subtitle>Fei Chen&#39;s Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://mrseal.github.io/"/>
+  <updated>2018-05-28T09:19:13.000Z</updated>
+  <id>http://mrseal.github.io/</id>
+  
+  <author>
+    <name>Fei Chen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac Keys</title>
+    <link href="http://mrseal.github.io/2018/05/21/mac-keys/"/>
+    <id>http://mrseal.github.io/2018/05/21/mac-keys/</id>
+    <published>2018-05-20T19:51:56.000Z</published>
+    <updated>2018-05-28T09:19:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/mac-keys.png" alt="Mac Keys"></p><p>图片来源：<a href="https://jingyan.baidu.com/album/08b6a591aac09614a909224f.html?picindex=1" target="_blank" rel="noopener">https://jingyan.baidu.com/album/08b6a591aac09614a909224f.html?picindex=1</a> (感谢原作)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/img/mac-keys.png&quot; alt=&quot;Mac Keys&quot;&gt;&lt;/p&gt;
+&lt;p&gt;图片来源：&lt;a href=&quot;https://jingyan.baidu.com/album/08b6a591aac09614a909224f.html?picindex=
+      
+    
+    </summary>
+    
+    
+      <category term="mac" scheme="http://mrseal.github.io/tags/mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IntelliJ IDEA Shortcuts (Mac OS)</title>
+    <link href="http://mrseal.github.io/2018/05/21/intellij-idea-shortcuts-mac-os/"/>
+    <id>http://mrseal.github.io/2018/05/21/intellij-idea-shortcuts-mac-os/</id>
+    <published>2018-05-20T19:41:52.000Z</published>
+    <updated>2018-05-28T09:51:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Shift + F6</td><td style="text-align:center">Rename/Refactor</td></tr></tbody></table><h3 id="Navigation"><a href="#Navigation" class="headerlink" title="Navigation"></a>Navigation</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command + O</td><td style="text-align:center">Open a Class</td></tr></tbody></table><h3 id="Edit-Basics"><a href="#Edit-Basics" class="headerlink" title="Edit - Basics"></a>Edit - Basics</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command + /</td><td style="text-align:center">Comment out any line</td></tr><tr><td>Command + Backspace</td><td style="text-align:center">Delete the current line</td></tr><tr><td>Command + d</td><td style="text-align:center">Duplicate the current line</td></tr><tr><td>Shift + Opt + Up/Down</td><td style="text-align:center">Move the line up and down</td></tr><tr><td>Shift + Command + Up/Down</td><td style="text-align:center">Move the whole statement up and down</td></tr></tbody></table><h3 id="Edit-Selection"><a href="#Edit-Selection" class="headerlink" title="Edit - Selection"></a>Edit - Selection</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Opt + F7</td><td style="text-align:center">Find Usage</td></tr><tr><td>Shift + Opt + Right</td><td style="text-align:center">Move the caret to the next word and select everything in between</td></tr><tr><td>Shift + Command + Right</td><td style="text-align:center">Move the caret to the end of the line and select everything in between</td></tr><tr><td>Opt + Up</td><td style="text-align:center">Extend the selection to the next code block</td></tr><tr><td>Opt + Down</td><td style="text-align:center">Shrink selection</td></tr><tr><td>Opt + g</td><td style="text-align:center">multiple selections - select the next occurence</td></tr><tr><td>Opt + Shift + g</td><td style="text-align:center">multiple selections - deselect the last occurence</td></tr><tr><td>Command + Opt + g</td><td style="text-align:center">multiple selections - select all occurence</td></tr></tbody></table><h3 id="Edit-Collapse"><a href="#Edit-Collapse" class="headerlink" title="Edit - Collapse"></a>Edit - Collapse</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command +/-</td><td style="text-align:center">collapse/expand a code region</td></tr><tr><td>Shift + Command +/-</td><td style="text-align:center">collapse/expand a all regions</td></tr></tbody></table><h3 id="Code-Completion"><a href="#Code-Completion" class="headerlink" title="Code Completion"></a>Code Completion</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Ctrol + space</td><td style="text-align:center">code completion</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Basics&quot;&gt;&lt;a href=&quot;#Basics&quot; class=&quot;headerlink&quot; title=&quot;Basics&quot;&gt;&lt;/a&gt;Basics&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Keys&lt;/th&gt;
+&lt;th style=&quot;text-align:
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="http://mrseal.github.io/tags/tools/"/>
+    
+      <category term="shortcuts" scheme="http://mrseal.github.io/tags/shortcuts/"/>
+    
+      <category term="mac" scheme="http://mrseal.github.io/tags/mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vim Shortcuts (Mac OS)</title>
+    <link href="http://mrseal.github.io/2018/05/21/vim-shortcuts-mac-os/"/>
+    <id>http://mrseal.github.io/2018/05/21/vim-shortcuts-mac-os/</id>
+    <published>2018-05-20T19:41:52.000Z</published>
+    <updated>2018-05-28T09:19:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>$ (Shift+4)</td><td style="text-align:center">To the end of the line</td></tr><tr><td>^ (Shift+6) / 0</td><td style="text-align:center">To the start of the line</td></tr></tbody></table><h3 id="Delete"><a href="#Delete" class="headerlink" title="Delete"></a>Delete</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>dd</td><td style="text-align:center">delete the entire line</td></tr><tr><td>dw</td><td style="text-align:center">delete the word</td></tr><tr><td>d$</td><td style="text-align:center">delete from the current cursor to the end of the line</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Basics&quot;&gt;&lt;a href=&quot;#Basics&quot; class=&quot;headerlink&quot; title=&quot;Basics&quot;&gt;&lt;/a&gt;Basics&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Keys&lt;/th&gt;
+&lt;th style=&quot;text-align:
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="http://mrseal.github.io/tags/tools/"/>
+    
+      <category term="shortcuts" scheme="http://mrseal.github.io/tags/shortcuts/"/>
+    
+      <category term="mac" scheme="http://mrseal.github.io/tags/mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Microservices Notes - Software and Tools</title>
+    <link href="http://mrseal.github.io/2017/05/19/microservices-notes/"/>
+    <id>http://mrseal.github.io/2017/05/19/microservices-notes/</id>
+    <published>2017-05-18T20:51:28.000Z</published>
+    <updated>2018-05-28T09:19:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="CI-amp-CD"><a href="#CI-amp-CD" class="headerlink" title="CI &amp; CD"></a>CI &amp; CD</h2><h3 id="Automated-Configuration-Management-Tools"><a href="#Automated-Configuration-Management-Tools" class="headerlink" title="Automated Configuration Management Tools"></a>Automated Configuration Management Tools</h3><ul><li>Puppet</li><li>Chef</li><li>Ansible</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;CI-amp-CD&quot;&gt;&lt;a href=&quot;#CI-amp-CD&quot; class=&quot;headerlink&quot; title=&quot;CI &amp;amp; CD&quot;&gt;&lt;/a&gt;CI &amp;amp; CD&lt;/h2&gt;&lt;h3 id=&quot;Automated-Configuration-Managemen
+      
+    
+    </summary>
+    
+    
+      <category term="microservices" scheme="http://mrseal.github.io/tags/microservices/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sublime Text 3 Keyboard Shortcuts (Mac OS + Windows)</title>
+    <link href="http://mrseal.github.io/2017/05/17/sublime-text-3-keyboard-shortcuts/"/>
+    <id>http://mrseal.github.io/2017/05/17/sublime-text-3-keyboard-shortcuts/</id>
+    <published>2017-05-16T17:25:32.000Z</published>
+    <updated>2018-05-28T09:19:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.sublimetext.com/" target="_blank" rel="noopener">https://www.sublimetext.com/</a></p><h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><table><thead><tr><th>Mac OS</th><th>Windows</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>cmd + shift + l</td><td>ctrl + shift + l</td><td style="text-align:center">split selection into lines</td></tr><tr><td>cmd + d</td><td>ctrl + d</td><td style="text-align:center">select a word<br>select next occurance of the word</td></tr><tr><td>cmd + left click</td><td>ctrl + left click</td><td style="text-align:center">place multiple cursors</td></tr><tr><td>cmd + left arrow</td><td>home</td><td style="text-align:center">move cursor to begining of the line</td></tr><tr><td>cmd + right arrow</td><td>end</td><td style="text-align:center">move cursor to end of the line</td></tr></tbody></table><a id="more"></a><h3 id="Line-and-Indentation"><a href="#Line-and-Indentation" class="headerlink" title="Line and Indentation"></a>Line and Indentation</h3><table><thead><tr><th>Mac OS</th><th>Windows</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>cmd + ctrl + up/down</td><td>ctrl + shift + up/down</td><td style="text-align:center">move line vertically</td></tr><tr><td>cmd + shift + d</td><td>ctrl + shift + d</td><td style="text-align:center">duplicate line</td></tr><tr><td>ctrl + shift + k</td><td>ctrl + shift + k</td><td style="text-align:center">delete line</td></tr><tr><td>cmd + [ or ]</td><td>ctrl + [ or ]</td><td style="text-align:center">indent line</td></tr><tr><td>cmd + shift + v</td><td>ctrl + shift + v</td><td style="text-align:center">paste and indent</td></tr></tbody></table><table><thead><tr><th>Menu</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>Edit - Line - Reindent</td><td style="text-align:center">format the indentation</td></tr></tbody></table><h3 id="Goto"><a href="#Goto" class="headerlink" title="Goto"></a>Goto</h3><p>When you have a folder opened in sublime, you will see the folder structure in the side panel</p><table><thead><tr><th>Mac OS</th><th>Windows</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>cmd + p</td><td>ctrl + p</td><td style="text-align:center">Goto anything  e.g. go to a file in the folder</td></tr></tbody></table><p>Operators in Goto Search Box</p><table><thead><tr><th>Operators</th><th style="text-align:center">Commands</th><th style="text-align:center">Shortcuts</th></tr></thead><tbody><tr><td>&lt;file&gt;</td><td style="text-align:center">Goto file</td><td style="text-align:center"></td></tr><tr><td>@&lt;symbol&gt;</td><td style="text-align:center">Jump to symbol e.g. class or function</td><td style="text-align:center"></td></tr><tr><td>#&lt;term&gt;</td><td style="text-align:center">Jump to term</td><td style="text-align:center"></td></tr><tr><td>:&lt;line_number&gt;</td><td style="text-align:center">Jump to line number</td><td style="text-align:center">ctrl + g</td></tr><tr><td>&lt;file&gt;@&lt;symbol&gt;</td><td style="text-align:center">Goto the file and jump to the symbol</td><td style="text-align:center"></td></tr><tr><td>&lt;file&gt;#&lt;term&gt;</td><td style="text-align:center">Goto the file and jump to the term</td><td style="text-align:center"></td></tr><tr><td>&lt;file&gt;:&lt;line_number&gt;</td><td style="text-align:center">Goto the file and jump to the line number</td></tr></tbody></table><p>Additional</p><table><thead><tr><th>Menu</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>right click - Show Unsaved Changes…</td><td style="text-align:center">show unsaved changes</td></tr></tbody></table><h3 id="Command-Palette"><a href="#Command-Palette" class="headerlink" title="Command Palette"></a>Command Palette</h3><p>Command Palette is a powerful tool where you can do many many things</p><table><thead><tr><th>Mac OS</th><th>Windows</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>cmd + shift + p</td><td>ctrl + shift + p</td><td style="text-align:center">open the command palette e.g. reverse, sort, set syntax (HTML, Markdown etc)</td></tr></tbody></table><p><strong>Package Manager</strong></p><ol><li>Search “Sublime Text Package Manager” in google, and go to “Installation” page. Follow the instructions to install package manager in your sublime.</li><li>Open command palette (cmd + shift + p), type “Install Package”, and look for the package you want to install.  There’s a few interesting packages such as Color Highlighter, Emmet (nice autofill tool for html, css …) etc.</li></ol><table><thead><tr><th>Mac OS</th><th>Windows</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>ctrl + w</td><td>shift + ctrl + g</td><td style="text-align:center">wrap with Emmet</td></tr></tbody></table><h3 id="Others"><a href="#Others" class="headerlink" title="Others"></a>Others</h3><table><thead><tr><th>Mac OS</th><th>Windows</th><th style="text-align:center">Commands</th></tr></thead><tbody><tr><td>alt + left click drag</td><td>shift + right click drag</td><td style="text-align:center">column selection</td></tr><tr><td>ctrl + shift + w</td><td>alt + shift + w</td><td style="text-align:center">wrap selection with tag</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://www.sublimetext.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.sublimetext.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Basics&quot;&gt;&lt;a href=&quot;#Basics&quot; class=&quot;headerlink&quot; title=&quot;Basics&quot;&gt;&lt;/a&gt;Basics&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Mac OS&lt;/th&gt;
+&lt;th&gt;Windows&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;Commands&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;cmd + shift + l&lt;/td&gt;
+&lt;td&gt;ctrl + shift + l&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;split selection into lines&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cmd + d&lt;/td&gt;
+&lt;td&gt;ctrl + d&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;select a word&lt;br&gt;select next occurance of the word&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cmd + left click&lt;/td&gt;
+&lt;td&gt;ctrl + left click&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;place multiple cursors&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cmd + left arrow&lt;/td&gt;
+&lt;td&gt;home&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;move cursor to begining of the line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cmd + right arrow&lt;/td&gt;
+&lt;td&gt;end&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;move cursor to end of the line&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+    
+    </summary>
+    
+      <category term="Tools" scheme="http://mrseal.github.io/categories/Tools/"/>
+    
+    
+      <category term="tools" scheme="http://mrseal.github.io/tags/tools/"/>
+    
+      <category term="shortcuts" scheme="http://mrseal.github.io/tags/shortcuts/"/>
+    
+      <category term="mac" scheme="http://mrseal.github.io/tags/mac/"/>
+    
+      <category term="sublime" scheme="http://mrseal.github.io/tags/sublime/"/>
+    
+      <category term="text editor" scheme="http://mrseal.github.io/tags/text-editor/"/>
+    
+      <category term="windows" scheme="http://mrseal.github.io/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【摘】自嘲，是有自信的人，才做得到的事</title>
+    <link href="http://mrseal.github.io/2017/05/02/how-kevin-talks/"/>
+    <id>http://mrseal.github.io/2017/05/02/how-kevin-talks/</id>
+    <published>2017-05-01T20:58:00.000Z</published>
+    <updated>2018-05-28T09:19:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>【摘】看了几页《蔡康永的说话之道2》，插画里面这个对话蛮有意思</p><a id="more"></a><blockquote><p>刚开始的时候，说话这件事是我的命门</p></blockquote><p>记者：你是如何创作的呢？<br>答：O__O “… 呃…就…就笔跟纸啊 ~</p><blockquote><p>久而久之，被迫接受需要讲话的场合变多 </p></blockquote><p>答：就是以我的生活为灵感 😉 </p><blockquote><p>虽然还称不上很会讲话，但至少胆子有一点了，说话也比较清楚了 </p></blockquote><p>答：我的点击率这么高，其实有一半是我自己点的啦 😂</p><blockquote><p>所以不擅长的事，只要一直练习，一定也会及格的啦 </p></blockquote><p>路人：怎样都好啦，但你那个点击率的笑话我已经听了快100次了</p><p>O__O “… 呃… 我只有那个梗吧 </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;【摘】看了几页《蔡康永的说话之道2》，插画里面这个对话蛮有意思&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="闲读" scheme="http://mrseal.github.io/categories/%E9%97%B2%E8%AF%BB/"/>
+    
+    
+      <category term="闲读" scheme="http://mrseal.github.io/tags/%E9%97%B2%E8%AF%BB/"/>
+    
+      <category term="书摘" scheme="http://mrseal.github.io/tags/%E4%B9%A6%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to setup a blog with Hexo and Github</title>
+    <link href="http://mrseal.github.io/2017/05/01/how-to-setup-a-blog-with-hexo-and-github/"/>
+    <id>http://mrseal.github.io/2017/05/01/how-to-setup-a-blog-with-hexo-and-github/</id>
+    <published>2017-04-30T21:18:40.000Z</published>
+    <updated>2018-05-28T09:19:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Start your blog with <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> and <a href="https://github.com/" target="_blank" rel="noopener">Github</a> in 5 minutes.</p><a id="more"></a><h2 id="Prerequisites"><a href="#Prerequisites" class="headerlink" title="Prerequisites"></a>Prerequisites</h2><ul><li><a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a></li><li><a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js</a></li></ul><h3 id="Install-Git"><a href="#Install-Git" class="headerlink" title="Install Git"></a>Install Git</h3><p>Follow <a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a></p><h3 id="Install-Node-js"><a href="#Install-Node-js" class="headerlink" title="Install Node.js"></a>Install Node.js</h3><p>The best way to install Node.js is with <a href="https://github.com/creationix/nvm" target="_blank" rel="noopener">nvm</a>.</p><p>Install NVM:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | sh</span><br></pre></td></tr></table></figure></p><p>Install Node.js with NPM:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ nvm install stable</span><br></pre></td></tr></table></figure></p><p>After the installation, you can test <strong>node</strong> and <strong>npm</strong> by running the commands:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ node -v</span><br><span class="line">v7.9.0</span><br><span class="line">$ npm -v</span><br><span class="line">4.2.0</span><br></pre></td></tr></table></figure></p><h2 id="Install-Hexo"><a href="#Install-Hexo" class="headerlink" title="Install Hexo"></a>Install Hexo</h2><p>Once all the requirements are installed, you can install Hexo with npm.<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure></p><p>To test the installation<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">$ hexo -v</span><br><span class="line">hexo: 3.3.5</span><br><span class="line">hexo-cli: 1.0.2</span><br><span class="line">os: Darwin 16.5.0 darwin x64</span><br><span class="line">http_parser: 2.7.0</span><br><span class="line">node: 7.9.0</span><br><span class="line">v8: 5.5.372.43</span><br><span class="line">uv: 1.11.0</span><br><span class="line">zlib: 1.2.11</span><br><span class="line">ares: 1.10.1-DEV</span><br><span class="line">modules: 51</span><br><span class="line">openssl: 1.0.2k</span><br><span class="line">icu: 58.2</span><br><span class="line">unicode: 9.0</span><br><span class="line">cldr: 30.0.3</span><br><span class="line">tz: 2016j</span><br></pre></td></tr></table></figure></p><p><strong>NOTE:</strong> If you see ERRORs like below (e.g. on Mac OS)</p><blockquote><p>{ Error: Cannot find module ‘./build/Release/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }<br>{ Error: Cannot find module ‘./build/default/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }<br>{ Error: Cannot find module ‘./build/Debug/DTraceProviderBindings’ …’MODULE_NOT_FOUND’ }</p></blockquote><p>reinstall the hexo-cli with <strong>--no-optional</strong><br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ sudo npm uninstall hexo-cli -g</span><br><span class="line">$ sudo npm install hexo-cli --no-optional -g</span><br></pre></td></tr></table></figure></p><h2 id="Setup-Blog"><a href="#Setup-Blog" class="headerlink" title="Setup Blog"></a>Setup Blog</h2><p>Once Hexo is installed, run the following commands to build your Hexo blog.</p><p>Init your blog<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init &lt;anyfolder&gt;</span><br><span class="line">$ <span class="built_in">cd</span> &lt;anyfolder&gt;/</span><br><span class="line">$ npm install</span><br></pre></td></tr></table></figure></p><p>Edit <strong>_config.yml</strong> as desired<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Site</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">MrSeal</span></span><br><span class="line"><span class="attr">subtitle:</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">MrSeal's</span> <span class="string">Blog</span></span><br><span class="line"><span class="attr">author:</span> <span class="string">Fei</span> <span class="string">Chen</span></span><br><span class="line"><span class="attr">language:</span> <span class="string">en</span></span><br><span class="line"><span class="attr">timezone:</span> <span class="string">Europe/Dublin</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># URL</span></span><br><span class="line"><span class="comment">## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'</span></span><br><span class="line"><span class="attr">url:</span> <span class="attr">http://mrseal.github.io</span></span><br><span class="line"><span class="attr">root:</span> <span class="string">/</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">:year/:month/:day/:title/</span></span><br><span class="line"><span class="attr">permalink_defaults:</span></span><br></pre></td></tr></table></figure></p><p>Run and test the Hexo server on your local<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br><span class="line">INFO  Start processing</span><br><span class="line">INFO  Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.</span><br></pre></td></tr></table></figure></p><p>Now, you should be able to see your blog at <a href="http://localhost:4000/" target="_blank" rel="noopener">http://localhost:4000/</a>.</p><p><strong>NOTE:</strong> If you see ERRORs like below (e.g. on Mac OS)</p><blockquote><p>{ Error: Cannot find module ‘./build/Release/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }<br>{ Error: Cannot find module ‘./build/default/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }<br>{ Error: Cannot find module ‘./build/Debug/DTraceProviderBindings’ …’MODULE_NOT_FOUND’ }</p></blockquote><p>run this<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo --no-optional</span><br></pre></td></tr></table></figure></p><h2 id="Deploy-Blog-to-Github"><a href="#Deploy-Blog-to-Github" class="headerlink" title="Deploy Blog to Github"></a>Deploy Blog to Github</h2><p>Now you can deploy your the blog to your github, and make it online to public.</p><p>First of all, you have to head over to <a href="https://github.com/" target="_blank" rel="noopener">github</a> and create a new repository named <strong>username.github.io</strong>, where <em>username</em> is your github username.</p><p>Then edit settings in <strong>_config.yml</strong><br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Deployment</span></span><br><span class="line"><span class="comment">## Docs: https://hexo.io/docs/deployment.html</span></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line"><span class="attr">  type:</span> <span class="string">git</span></span><br><span class="line"><span class="attr">  repo:</span> <span class="attr">https://github.com/username/username.github.io.git</span></span><br><span class="line"><span class="attr">  branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure></p><p>Install <a href="https://github.com/hexojs/hexo-deployer-git" target="_blank" rel="noopener">hexo-deployer-git</a>.<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure></p><p>Deploy the blog<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></p><p>At this point, you should be able to see your blog at <a href="http://username.github.io" target="_blank" rel="noopener">http://username.github.io</a>.</p><h2 id="Write-a-New-Post"><a href="#Write-a-New-Post" class="headerlink" title="Write a New Post"></a>Write a New Post</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &#123;postname&#125;</span><br><span class="line">$ vi <span class="built_in">source</span>/_posts/&#123;postname&#125;.md</span><br><span class="line"><span class="comment"># generate static files and deploy</span></span><br><span class="line">$ hexo generate -d</span><br></pre></td></tr></table></figure><h2 id="Further-Reading"><a href="#Further-Reading" class="headerlink" title="Further Reading"></a>Further Reading</h2><ul><li>Hexo: <a href="https://hexo.io/" target="_blank" rel="noopener">https://hexo.io/</a></li><li>Hexo Themes: <a href="https://hexo.io/docs/themes.html" target="_blank" rel="noopener">https://hexo.io/docs/themes.html</a></li><li>Theme Samples: <a href="https://hexo.io/themes/" target="_blank" rel="noopener">https://hexo.io/themes/</a></li><li>Github Markdown: <a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="noopener">https://guides.github.com/features/mastering-markdown/</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Start your blog with &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt; and &lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Github&lt;/a&gt; in 5 minutes.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://mrseal.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://mrseal.github.io/tags/Hexo/"/>
+    
+      <category term="Github" scheme="http://mrseal.github.io/tags/Github/"/>
+    
+      <category term="Blog" scheme="http://mrseal.github.io/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://mrseal.github.io/2017/05/01/hello-world/"/>
+    <id>http://mrseal.github.io/2017/05/01/hello-world/</id>
+    <published>2017-04-30T17:16:00.000Z</published>
+    <updated>2018-05-28T09:19:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://mrseal.github.io/categories/Hexo/"/>
+    
+    
+  </entry>
+  
+</feed>

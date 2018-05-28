@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Mac Keys]]></title>
+    <url>%2F2018%2F05%2F21%2Fmac-keys%2F</url>
+    <content type="text"><![CDATA[图片来源：https://jingyan.baidu.com/album/08b6a591aac09614a909224f.html?picindex=1 (感谢原作)]]></content>
+      <tags>
+        <tag>mac</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[IntelliJ IDEA Shortcuts (Mac OS)]]></title>
+    <url>%2F2018%2F05%2F21%2Fintellij-idea-shortcuts-mac-os%2F</url>
+    <content type="text"><![CDATA[Basics Keys Command Shift + F6 Rename/Refactor Navigation Keys Command Command + O Open a Class Edit - Basics Keys Command Command + / Comment out any line Command + Backspace Delete the current line Command + d Duplicate the current line Shift + Opt + Up/Down Move the line up and down Shift + Command + Up/Down Move the whole statement up and down Edit - Selection Keys Command Opt + F7 Find Usage Shift + Opt + Right Move the caret to the next word and select everything in between Shift + Command + Right Move the caret to the end of the line and select everything in between Opt + Up Extend the selection to the next code block Opt + Down Shrink selection Opt + g multiple selections - select the next occurence Opt + Shift + g multiple selections - deselect the last occurence Command + Opt + g multiple selections - select all occurence Edit - Collapse Keys Command Command +/- collapse/expand a code region Shift + Command +/- collapse/expand a all regions Code Completion Keys Command Ctrol + space code completion]]></content>
+      <tags>
+        <tag>tools</tag>
+        <tag>shortcuts</tag>
+        <tag>mac</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Vim Shortcuts (Mac OS)]]></title>
+    <url>%2F2018%2F05%2F21%2Fvim-shortcuts-mac-os%2F</url>
+    <content type="text"><![CDATA[Basics Keys Command $ (Shift+4) To the end of the line ^ (Shift+6) / 0 To the start of the line Delete Keys Command dd delete the entire line dw delete the word d$ delete from the current cursor to the end of the line]]></content>
+      <tags>
+        <tag>tools</tag>
+        <tag>shortcuts</tag>
+        <tag>mac</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Microservices Notes - Software and Tools]]></title>
+    <url>%2F2017%2F05%2F19%2Fmicroservices-notes%2F</url>
+    <content type="text"><![CDATA[CI &amp; CDAutomated Configuration Management Tools Puppet Chef Ansible]]></content>
+      <tags>
+        <tag>microservices</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Sublime Text 3 Keyboard Shortcuts (Mac OS + Windows)]]></title>
+    <url>%2F2017%2F05%2F17%2Fsublime-text-3-keyboard-shortcuts%2F</url>
+    <content type="text"><![CDATA[https://www.sublimetext.com/ Basics Mac OS Windows Commands cmd + shift + l ctrl + shift + l split selection into lines cmd + d ctrl + d select a wordselect next occurance of the word cmd + left click ctrl + left click place multiple cursors cmd + left arrow home move cursor to begining of the line cmd + right arrow end move cursor to end of the line Line and Indentation Mac OS Windows Commands cmd + ctrl + up/down ctrl + shift + up/down move line vertically cmd + shift + d ctrl + shift + d duplicate line ctrl + shift + k ctrl + shift + k delete line cmd + [ or ] ctrl + [ or ] indent line cmd + shift + v ctrl + shift + v paste and indent Menu Commands Edit - Line - Reindent format the indentation GotoWhen you have a folder opened in sublime, you will see the folder structure in the side panel Mac OS Windows Commands cmd + p ctrl + p Goto anything e.g. go to a file in the folder Operators in Goto Search Box Operators Commands Shortcuts &lt;file&gt; Goto file @&lt;symbol&gt; Jump to symbol e.g. class or function #&lt;term&gt; Jump to term :&lt;line_number&gt; Jump to line number ctrl + g &lt;file&gt;@&lt;symbol&gt; Goto the file and jump to the symbol &lt;file&gt;#&lt;term&gt; Goto the file and jump to the term &lt;file&gt;:&lt;line_number&gt; Goto the file and jump to the line number Additional Menu Commands right click - Show Unsaved Changes… show unsaved changes Command PaletteCommand Palette is a powerful tool where you can do many many things Mac OS Windows Commands cmd + shift + p ctrl + shift + p open the command palette e.g. reverse, sort, set syntax (HTML, Markdown etc) Package Manager Search “Sublime Text Package Manager” in google, and go to “Installation” page. Follow the instructions to install package manager in your sublime. Open command palette (cmd + shift + p), type “Install Package”, and look for the package you want to install. There’s a few interesting packages such as Color Highlighter, Emmet (nice autofill tool for html, css …) etc. Mac OS Windows Commands ctrl + w shift + ctrl + g wrap with Emmet Others Mac OS Windows Commands alt + left click drag shift + right click drag column selection ctrl + shift + w alt + shift + w wrap selection with tag]]></content>
+      <categories>
+        <category>Tools</category>
+      </categories>
+      <tags>
+        <tag>tools</tag>
+        <tag>shortcuts</tag>
+        <tag>mac</tag>
+        <tag>sublime</tag>
+        <tag>text editor</tag>
+        <tag>windows</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[【摘】自嘲，是有自信的人，才做得到的事]]></title>
+    <url>%2F2017%2F05%2F02%2Fhow-kevin-talks%2F</url>
+    <content type="text"><![CDATA[【摘】看了几页《蔡康永的说话之道2》，插画里面这个对话蛮有意思 刚开始的时候，说话这件事是我的命门 记者：你是如何创作的呢？答：O__O “… 呃…就…就笔跟纸啊 ~ 久而久之，被迫接受需要讲话的场合变多 答：就是以我的生活为灵感 😉 虽然还称不上很会讲话，但至少胆子有一点了，说话也比较清楚了 答：我的点击率这么高，其实有一半是我自己点的啦 😂 所以不擅长的事，只要一直练习，一定也会及格的啦 路人：怎样都好啦，但你那个点击率的笑话我已经听了快100次了 O__O “… 呃… 我只有那个梗吧]]></content>
+      <categories>
+        <category>闲读</category>
+      </categories>
+      <tags>
+        <tag>闲读</tag>
+        <tag>书摘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[How to setup a blog with Hexo and Github]]></title>
+    <url>%2F2017%2F05%2F01%2Fhow-to-setup-a-blog-with-hexo-and-github%2F</url>
+    <content type="text"><![CDATA[Start your blog with Hexo and Github in 5 minutes. Prerequisites Git Node.js Install GitFollow Git Install Node.jsThe best way to install Node.js is with nvm. Install NVM:1$ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | sh Install Node.js with NPM:1$ nvm install stable After the installation, you can test node and npm by running the commands:1234$ node -vv7.9.0$ npm -v4.2.0 Install HexoOnce all the requirements are installed, you can install Hexo with npm.1$ npm install hexo-cli -g To test the installation12345678910111213141516$ hexo -vhexo: 3.3.5hexo-cli: 1.0.2os: Darwin 16.5.0 darwin x64http_parser: 2.7.0node: 7.9.0v8: 5.5.372.43uv: 1.11.0zlib: 1.2.11ares: 1.10.1-DEVmodules: 51openssl: 1.0.2kicu: 58.2unicode: 9.0cldr: 30.0.3tz: 2016j NOTE: If you see ERRORs like below (e.g. on Mac OS) { Error: Cannot find module ‘./build/Release/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }{ Error: Cannot find module ‘./build/default/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }{ Error: Cannot find module ‘./build/Debug/DTraceProviderBindings’ …’MODULE_NOT_FOUND’ } reinstall the hexo-cli with --no-optional12$ sudo npm uninstall hexo-cli -g$ sudo npm install hexo-cli --no-optional -g Setup BlogOnce Hexo is installed, run the following commands to build your Hexo blog. Init your blog123$ hexo init &lt;anyfolder&gt;$ cd &lt;anyfolder&gt;/$ npm install Edit _config.yml as desired1234567891011121314# Sitetitle: MrSealsubtitle:description: MrSeal's Blogauthor: Fei Chenlanguage: entimezone: Europe/Dublin# URL## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'url: http://mrseal.github.ioroot: /permalink: :year/:month/:day/:title/permalink_defaults: Run and test the Hexo server on your local123$ hexo serverINFO Start processingINFO Hexo is running at http://localhost:4000/. Press Ctrl+C to stop. Now, you should be able to see your blog at http://localhost:4000/. NOTE: If you see ERRORs like below (e.g. on Mac OS) { Error: Cannot find module ‘./build/Release/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }{ Error: Cannot find module ‘./build/default/DTraceProviderBindings’ … code: ‘MODULE_NOT_FOUND’ }{ Error: Cannot find module ‘./build/Debug/DTraceProviderBindings’ …’MODULE_NOT_FOUND’ } run this1$ npm install hexo --no-optional Deploy Blog to GithubNow you can deploy your the blog to your github, and make it online to public. First of all, you have to head over to github and create a new repository named username.github.io, where username is your github username. Then edit settings in _config.yml123456# Deployment## Docs: https://hexo.io/docs/deployment.htmldeploy: type: git repo: https://github.com/username/username.github.io.git branch: master Install hexo-deployer-git.1$ npm install hexo-deployer-git --save Deploy the blog1$ hexo deploy At this point, you should be able to see your blog at http://username.github.io. Write a New Post1234$ hexo new &#123;postname&#125;$ vi source/_posts/&#123;postname&#125;.md# generate static files and deploy$ hexo generate -d Further Reading Hexo: https://hexo.io/ Hexo Themes: https://hexo.io/docs/themes.html Theme Samples: https://hexo.io/themes/ Github Markdown: https://guides.github.com/features/mastering-markdown/]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Github</tag>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F05%2F01%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+</search>
