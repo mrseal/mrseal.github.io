@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[alitest]]></title>
-    <url>%2F2018%2F05%2F29%2Falitest%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
     <title><![CDATA[Mac Keys]]></title>
     <url>%2F2018%2F05%2F21%2Fmac-keys%2F</url>
     <content type="text"><![CDATA[图片来源：https://jingyan.baidu.com/album/08b6a591aac09614a909224f.html?picindex=1 (感谢原作)]]></content>
@@ -16,7 +11,7 @@
   <entry>
     <title><![CDATA[IntelliJ IDEA Shortcuts (Mac OS)]]></title>
     <url>%2F2018%2F05%2F21%2Fintellij-idea-shortcuts-mac-os%2F</url>
-    <content type="text"><![CDATA[Basics Keys Command Shift + F6 Rename/Refactor Navigation Keys Command Command + O Open a Class Edit - Basics Keys Command Command + / Comment out any line Command + Backspace Delete the current line Command + d Duplicate the current line Shift + Opt + Up/Down Move the line up and down Shift + Command + Up/Down Move the whole statement up and down Edit - Selection Keys Command Opt + F7 Find Usage Shift + Opt + Right Move the caret to the next word and select everything in between Shift + Command + Right Move the caret to the end of the line and select everything in between Opt + Up Extend the selection to the next code block Opt + Down Shrink selection Opt + g multiple selections - select the next occurence Opt + Shift + g multiple selections - deselect the last occurence Command + Opt + g multiple selections - select all occurence Edit - Collapse Keys Command Command +/- collapse/expand a code region Shift + Command +/- collapse/expand a all regions Code Completion Keys Command Ctrol + space code completion]]></content>
+    <content type="text"><![CDATA[Refactor Keys Command Shift + F6 Rename/Refactor Navigation Keys Command Command + O Open a Class F1 To quickly see the documentation for a class or method Command + B Jump to the declarations Command + F12 Show the list of members of the current class Opt + F1 To quickly open different views Edit - Basics Keys Command Alt + Return Fix the error or warning Command + / Comment out any line Command + Backspace Delete the current line Command + d Duplicate the current line Shift + Opt + Up/Down Move the line up and down Shift + Command + Up/Down Move the whole statement up and down Ctrl + o Override the methods of superclass Ctrl + i Implement the methods of interface Edit - Selection Keys Command Opt + F7 Find Usage Shift + Opt + Right Move the caret to the next word and select everything in between Shift + Command + Right Move the caret to the end of the line and select everything in between Opt + Up Extend the selection to the next code block Opt + Down Shrink selection Opt + g multiple selections - select the next occurence Opt + Shift + g multiple selections - deselect the last occurence Command + Opt + g multiple selections - select all occurence Edit - Collapse Keys Command Command +/- collapse/expand a code region Shift + Command +/- collapse/expand a all regions Code Completion Keys Command Ctrol + space code completion Shift + Ctrl + space smart code completion Tab accept and replace the whole word Command + P show parameter info Command + N generate getter setter or constructor]]></content>
       <tags>
         <tag>tools</tag>
         <tag>shortcuts</tag>

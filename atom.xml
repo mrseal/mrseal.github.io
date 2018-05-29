@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mrseal.github.io/"/>
-  <updated>2018-05-28T10:35:31.000Z</updated>
+  <updated>2018-05-28T09:19:13.000Z</updated>
   <id>http://mrseal.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>alitest</title>
-    <link href="http://mrseal.github.io/2018/05/29/alitest/"/>
-    <id>http://mrseal.github.io/2018/05/29/alitest/</id>
-    <published>2018-05-28T17:35:31.000Z</published>
-    <updated>2018-05-28T10:35:31.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Mac Keys</title>
@@ -59,19 +45,19 @@
     <link href="http://mrseal.github.io/2018/05/21/intellij-idea-shortcuts-mac-os/"/>
     <id>http://mrseal.github.io/2018/05/21/intellij-idea-shortcuts-mac-os/</id>
     <published>2018-05-20T19:41:52.000Z</published>
-    <updated>2018-05-28T09:51:58.000Z</updated>
+    <updated>2018-05-29T03:51:35.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Basics"><a href="#Basics" class="headerlink" title="Basics"></a>Basics</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Shift + F6</td><td style="text-align:center">Rename/Refactor</td></tr></tbody></table><h3 id="Navigation"><a href="#Navigation" class="headerlink" title="Navigation"></a>Navigation</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command + O</td><td style="text-align:center">Open a Class</td></tr></tbody></table><h3 id="Edit-Basics"><a href="#Edit-Basics" class="headerlink" title="Edit - Basics"></a>Edit - Basics</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command + /</td><td style="text-align:center">Comment out any line</td></tr><tr><td>Command + Backspace</td><td style="text-align:center">Delete the current line</td></tr><tr><td>Command + d</td><td style="text-align:center">Duplicate the current line</td></tr><tr><td>Shift + Opt + Up/Down</td><td style="text-align:center">Move the line up and down</td></tr><tr><td>Shift + Command + Up/Down</td><td style="text-align:center">Move the whole statement up and down</td></tr></tbody></table><h3 id="Edit-Selection"><a href="#Edit-Selection" class="headerlink" title="Edit - Selection"></a>Edit - Selection</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Opt + F7</td><td style="text-align:center">Find Usage</td></tr><tr><td>Shift + Opt + Right</td><td style="text-align:center">Move the caret to the next word and select everything in between</td></tr><tr><td>Shift + Command + Right</td><td style="text-align:center">Move the caret to the end of the line and select everything in between</td></tr><tr><td>Opt + Up</td><td style="text-align:center">Extend the selection to the next code block</td></tr><tr><td>Opt + Down</td><td style="text-align:center">Shrink selection</td></tr><tr><td>Opt + g</td><td style="text-align:center">multiple selections - select the next occurence</td></tr><tr><td>Opt + Shift + g</td><td style="text-align:center">multiple selections - deselect the last occurence</td></tr><tr><td>Command + Opt + g</td><td style="text-align:center">multiple selections - select all occurence</td></tr></tbody></table><h3 id="Edit-Collapse"><a href="#Edit-Collapse" class="headerlink" title="Edit - Collapse"></a>Edit - Collapse</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command +/-</td><td style="text-align:center">collapse/expand a code region</td></tr><tr><td>Shift + Command +/-</td><td style="text-align:center">collapse/expand a all regions</td></tr></tbody></table><h3 id="Code-Completion"><a href="#Code-Completion" class="headerlink" title="Code Completion"></a>Code Completion</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Ctrol + space</td><td style="text-align:center">code completion</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<h3 id="Refactor"><a href="#Refactor" class="headerlink" title="Refactor"></a>Refactor</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Shift + F6</td><td style="text-align:center">Rename/Refactor</td></tr></tbody></table><h3 id="Navigation"><a href="#Navigation" class="headerlink" title="Navigation"></a>Navigation</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command + O</td><td style="text-align:center">Open a Class</td></tr><tr><td>F1</td><td style="text-align:center">To quickly see the documentation for a class or method</td></tr><tr><td>Command + B</td><td style="text-align:center">Jump to the declarations</td></tr><tr><td>Command + F12</td><td style="text-align:center">Show the list of members of the current class</td></tr><tr><td>Opt + F1</td><td style="text-align:center">To quickly open different views</td></tr></tbody></table><h3 id="Edit-Basics"><a href="#Edit-Basics" class="headerlink" title="Edit - Basics"></a>Edit - Basics</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Alt + Return</td><td style="text-align:center">Fix the error or warning</td></tr><tr><td>Command + /</td><td style="text-align:center">Comment out any line</td></tr><tr><td>Command + Backspace</td><td style="text-align:center">Delete the current line</td></tr><tr><td>Command + d</td><td style="text-align:center">Duplicate the current line</td></tr><tr><td>Shift + Opt + Up/Down</td><td style="text-align:center">Move the line up and down</td></tr><tr><td>Shift + Command + Up/Down</td><td style="text-align:center">Move the whole statement up and down</td></tr><tr><td>Ctrl + o</td><td style="text-align:center">Override the methods of superclass</td></tr><tr><td>Ctrl + i</td><td style="text-align:center">Implement the methods of interface</td></tr></tbody></table><h3 id="Edit-Selection"><a href="#Edit-Selection" class="headerlink" title="Edit - Selection"></a>Edit - Selection</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Opt + F7</td><td style="text-align:center">Find Usage</td></tr><tr><td>Shift + Opt + Right</td><td style="text-align:center">Move the caret to the next word and select everything in between</td></tr><tr><td>Shift + Command + Right</td><td style="text-align:center">Move the caret to the end of the line and select everything in between</td></tr><tr><td>Opt + Up</td><td style="text-align:center">Extend the selection to the next code block</td></tr><tr><td>Opt + Down</td><td style="text-align:center">Shrink selection</td></tr><tr><td>Opt + g</td><td style="text-align:center">multiple selections - select the next occurence</td></tr><tr><td>Opt + Shift + g</td><td style="text-align:center">multiple selections - deselect the last occurence</td></tr><tr><td>Command + Opt + g</td><td style="text-align:center">multiple selections - select all occurence</td></tr></tbody></table><h3 id="Edit-Collapse"><a href="#Edit-Collapse" class="headerlink" title="Edit - Collapse"></a>Edit - Collapse</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Command +/-</td><td style="text-align:center">collapse/expand a code region</td></tr><tr><td>Shift + Command +/-</td><td style="text-align:center">collapse/expand a all regions</td></tr></tbody></table><h3 id="Code-Completion"><a href="#Code-Completion" class="headerlink" title="Code Completion"></a>Code Completion</h3><table><thead><tr><th>Keys</th><th style="text-align:center">Command</th></tr></thead><tbody><tr><td>Ctrol + space</td><td style="text-align:center">code completion</td></tr><tr><td>Shift + Ctrl + space</td><td style="text-align:center">smart code completion</td></tr><tr><td>Tab</td><td style="text-align:center">accept and replace the whole word</td></tr><tr><td>Command + P</td><td style="text-align:center">show parameter info</td></tr><tr><td>Command + N</td><td style="text-align:center">generate getter setter or constructor</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;Basics&quot;&gt;&lt;a href=&quot;#Basics&quot; class=&quot;headerlink&quot; title=&quot;Basics&quot;&gt;&lt;/a&gt;Basics&lt;/h3&gt;&lt;table&gt;
+        &lt;h3 id=&quot;Refactor&quot;&gt;&lt;a href=&quot;#Refactor&quot; class=&quot;headerlink&quot; title=&quot;Refactor&quot;&gt;&lt;/a&gt;Refactor&lt;/h3&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Keys&lt;/th&gt;
-&lt;th style=&quot;text-align:
+&lt;th style=&quot;tex
       
     
     </summary>
